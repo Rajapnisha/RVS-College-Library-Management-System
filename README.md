@@ -1,8 +1,5 @@
-# Library Management System
+# RVS College Library Management System
 A web application which can manage various tasks in library for both admins and students.
-
-![image](https://user-images.githubusercontent.com/86913048/227118328-7af0ff95-9f70-4aa6-8cf6-eb7d2998f088.png)
-
 
 ## Table of Contents
 * [Features](#features)
